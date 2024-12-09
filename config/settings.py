@@ -5,7 +5,7 @@ from typing import Dict, Callable, List, Optional
 class MCPSettings:
     # Paths or keys for model API access
     openai_api_key: str = "YOUR-OPENAI-API-KEY"
-    ollama_model_name: str = "your-ollama-model"  # E.g., "llama2"
+    ollama_model_name: str = "your-ollama-model"  # E.g., "llama3.3"
     
     # Default policies
     policy_file: str = "policies/constitution.txt"
