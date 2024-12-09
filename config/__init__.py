@@ -1,3 +1,1 @@
-"""
-Configuration package for MCP Framework.
-"""
+IiIiCkNvbmZpZ3VyYXRpb24gcGFja2FnZSBmb3IgTUNQIEZyYW1ld29yay4KIiIi
