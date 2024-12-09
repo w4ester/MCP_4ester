@@ -6,6 +6,7 @@ class MCPSettings:
     # Paths or keys for model API access
     openai_api_key: str = "YOUR-OPENAI-API-KEY"
     ollama_model_name: str = "your-ollama-model"  # E.g., "llama3.3"
+    ollama_server_url: str = "http://localhost:11434"  # Add this line
     
     # Default policies
     policy_file: str = "policies/constitution.txt"
