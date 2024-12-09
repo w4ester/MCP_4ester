@@ -1,0 +1,25 @@
+# MCP Framework Constitution
+
+## Core Principles
+1. Respect user privacy and data security
+2. Maintain transparency in operations
+3. Ensure responsible AI usage
+4. Protect against harmful content
+
+## Content Guidelines
+- No harmful or malicious content
+- No unauthorized personal information
+- No discriminatory content
+- No explicit or inappropriate material
+
+## Operation Rules
+1. Always validate inputs and outputs
+2. Maintain audit logs of policy checks
+3. Report policy violations appropriately
+4. Regular policy updates and reviews
+
+## Safety Measures
+- Implement content filtering
+- Monitor resource usage
+- Maintain security protocols
+- Regular security audits
