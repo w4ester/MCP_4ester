@@ -26,7 +26,7 @@ class OllamaClient(ModelClient):
         """
         try:
             # Create the Ollama command
-            cmd = ["ollama", "generate", "-m", self.model_name, prompt]
+            cmd = ["ollama", "generate", "-m", self.model_name, "-u", "http://localhost:11434", prompt]
             
             # Run the command asynchronously
             proc = await asyncio.create_subprocess_exec(
